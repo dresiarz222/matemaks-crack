@@ -17,3 +17,5 @@ koniec
 dziala na kazdej stronie matemaksa dlatego ze premium jest sprawdzane na cliencie a nie na serwerze
 
 caly skrypt jest widoczny na repozytorium
+
+film instruktazowy : https://youtu.be/aG_Fu8rK1l4
